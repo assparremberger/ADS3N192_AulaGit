@@ -16,7 +16,7 @@ public class ADS3N192_AulaGit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int x = 2;
+        int x = 22;
     }
     
 }
